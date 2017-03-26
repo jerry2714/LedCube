@@ -1,6 +1,6 @@
-package graphicModel;
+package graphicmodel;
 
-import LedCube.LedSerialStructure;
+import ledcube.LedSerialStructure;
 import gui.AppCanvas;
 import gui.ThreadLoop;
 import gui.VisibleObject;

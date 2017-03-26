@@ -1,7 +1,6 @@
-package graphicModel.test;
+package graphicmodel.test;
 
-import graphicModel.Cube;
-import graphicModel.GraphicModel;
+import graphicmodel.Cube;
 import gui.ThreadLoop;
 
 import java.awt.*;

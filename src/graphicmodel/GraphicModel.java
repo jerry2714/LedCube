@@ -1,16 +1,11 @@
-package graphicModel;
-import LedCube.LedCubeStructure;
-import gui.AppCanvas;
-import gui.*;
+package graphicmodel;
+import ledcube.LedCubeStructure;
 
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-
-import static java.lang.Math.cos;
-import static java.lang.Math.sin;
 
 /**
  * 以三維座標表示的模型

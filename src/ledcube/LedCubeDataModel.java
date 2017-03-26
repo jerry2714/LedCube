@@ -1,4 +1,4 @@
-package LedCube;
+package ledcube;
 
 /**
  * Created by Jerry on 2017/3/22.

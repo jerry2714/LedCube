@@ -1,8 +1,8 @@
-package graphicModel.test;
+package graphicmodel.test;
 
-import LedCube.LedCubeStructure;
-import LedCube.LedSerialStructure;
-import graphicModel.Cube;
+import ledcube.LedCubeStructure;
+import ledcube.LedSerialStructure;
+import graphicmodel.Cube;
 import gui.ThreadLoop;
 
 import java.awt.*;

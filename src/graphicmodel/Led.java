@@ -1,4 +1,4 @@
-package graphicModel;
+package graphicmodel;
 
 import gui.VisibleObject;
 import java.awt.*;

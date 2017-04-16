@@ -1,9 +1,10 @@
 package graphicmodel.test;
 
-import ledcube.LedCubeStructure;
-import ledcube.LedSerialStructure;
+
 import graphicmodel.Cube;
 import gui.ThreadLoop;
+import ledcubeproject.models.ledcube.LedCubeStructure;
+import ledcubeproject.models.ledcube.LedSerialStructure;
 
 import java.awt.*;
 import java.awt.event.WindowAdapter;
@@ -15,8 +16,8 @@ import java.awt.event.WindowEvent;
 public class rainbowTest {
     public static void main(String args[])
     {
-        Cube cube = new Cube(6);
-        LedCubeStructure ledCubeStructure = new LedCubeStructure(6);
+        Cube cube = new Cube(2);
+        LedCubeStructure ledCubeStructure = new LedCubeStructure(2);
         LedSerialStructure ledSerialStructure = new LedSerialStructure(ledCubeStructure);
 
         ThreadLoop loop = new ThreadLoop() {

@@ -1,6 +1,6 @@
 package graphicmodel;
 
-import ledcube.LedSerialStructure;
+import ledcubeproject.models.ledcube.*;
 import gui.AppCanvas;
 import gui.ThreadLoop;
 import gui.VisibleObject;

@@ -1,5 +1,5 @@
 package graphicmodel;
-import ledcube.LedCubeStructure;
+import ledcubeproject.models.ledcube.*;
 
 import java.awt.*;
 import java.awt.event.MouseAdapter;
